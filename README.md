@@ -1,4 +1,4 @@
-# **Crane-Sentia – Intelligent Crane Safety System**
+# **Crane Sentia – Intelligent Crane Safety System**
 
 Crane-Sentia is a hardware-based smart safety system designed to enhance on-site crane operations using sensor-driven monitoring, distance detection, and real-time visual feedback.
 The word **Sentia** derives from Latin, meaning *“sensing / awareness”*, reflecting the system’s goal of enabling cranes to “sense” their surroundings.
